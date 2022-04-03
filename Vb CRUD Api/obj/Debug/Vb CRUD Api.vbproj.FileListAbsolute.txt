@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\Vb CRUD Api\Vb CRUD Api\obj\Debug\Vb CRUD Api.vbproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Vb CRUD Api\Vb CRUD Api\obj\Debug\Vb CRUD Api.vbproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\Vb CRUD Api\Vb CRUD Api\obj\Debug\Interop.ADODB.dll
+C:\Users\lenovo\source\repos\Vb CRUD Api\Vb CRUD Api\obj\Debug\Vb CRUD Api.vbproj.ResolveComReference.cache
+C:\Users\lenovo\source\repos\Vb CRUD Api\Vb CRUD Api\obj\Debug\Vb_CRUD_Api.Form1.resources
+C:\Users\lenovo\source\repos\Vb CRUD Api\Vb CRUD Api\obj\Debug\Vb_CRUD_Api.Resources.resources
+C:\Users\lenovo\source\repos\Vb CRUD Api\Vb CRUD Api\obj\Debug\Vb CRUD Api.vbproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Vb CRUD Api\Vb CRUD Api\obj\Debug\Vb CRUD Api.vbproj.CoreCompileInputs.cache
